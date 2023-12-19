@@ -1,0 +1,72 @@
+Pipeline:
+1
+pipe 1
+10000
+500
+Y
+Pipeline:
+2
+pipe 2
+2000
+700
+Y
+Pipeline:
+3
+pipe 3
+30000
+1000
+Y
+Pipeline:
+4
+pipe 4
+40000
+1400
+Y
+Pipeline:
+5
+pipe 5
+50000
+500
+N
+Pipeline:
+6
+pipe 6
+60000
+500
+Y
+Pipeline:
+7
+pipe 7
+70000
+1000
+N
+Station:
+1
+stat 1
+100
+10
+0.55
+Station:
+2
+stat 2
+200
+20
+0.54
+Station:
+3
+stat 3
+300
+60
+0.89
+Station:
+4
+stat 4
+130
+20
+0.78
+Station:
+5
+stat 5
+44
+39
+0.97
